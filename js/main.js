@@ -1,3 +1,5 @@
+// sort 
+
 let numA= prompt("Ingresa el primer número");
 let numB= prompt("Ingresa el segundo número");
 let numC= prompt("Ingresa el tercer número");
